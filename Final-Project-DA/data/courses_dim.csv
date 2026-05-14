@@ -1,0 +1,9 @@
+Course_ID,Course_Name,Category,Course_Level,Course_Duration_Days,Instructor_Rating
+"C101","Python Basics","Programming","Beginner",45,4.6
+"C102","Data Analysis with Python","Programming","Intermediate",60,4.7
+"C103","Introduction to AI","Programming","Intermediate",75,4.5
+"C104","Digital Marketing Essentials","Marketing","Beginner",30,4.3
+"C105","UI/UX Design Fundamentals","Design","Beginner",40,4.4
+"C106","Machine Learning A-Z","Programming","Advanced",90,4.6
+"C107","Statistics for Data Science","Math","Intermediate",50,4.2
+"C108","Excel for Business","Business","Beginner",25,4.1
