@@ -163,7 +163,7 @@ The following statistical measures were generated from the `fact_tbl` to analyze
 
 * Total Active Students
 * Total Revenue
-* Total Course Enrollments
+* Total Course
 * Total Completed Students
 * Total Non-Completed Students
 * Students per Course
