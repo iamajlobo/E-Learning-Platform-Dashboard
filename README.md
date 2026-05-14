@@ -212,7 +212,6 @@ EDA was conducted to identify patterns, trends, relationships, and distributions
 ## Frequency and Count Measures
 
 - Total Active Students
-- Total Revenue
 - Total Course Enrollments
 - Total Completed Students
 - Total Non-Completed Students
