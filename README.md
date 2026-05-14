@@ -217,7 +217,7 @@ These visualizations helped simplify the data and improve interpretation.
 
 The project applied data modeling techniques to organize and analyze the dataset efficiently.
 
-![Image](../Final-Project-DA/images/Final_Project-StarSchema.png)
+![Star Schema](Final-Project-DA/images/Final_Project-StarSchema.png)
 
 ## i. Star Schema
 
