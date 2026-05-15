@@ -1,5 +1,4 @@
-# 📊 Student Course Completion Prediction Dashboard
-
+# 📊 E-Learning Platform Dashboard
 ## Final Project Documentation in Data Analytics  
 **Course:** C301 – 7ANALYTICS  
 
