@@ -374,10 +374,10 @@ The dashboard contains three major pages:
 ### 🔍 Overview
 ![Overview](Final-Project-DA/images/Final_Project-Overview.png)
 
-### 📚 Courses Analysis
+### 📚 Courses
 ![Courses](Final-Project-DA/images/Final_Project-Courses.png)
 
-### 📈 Engagement Analysis
+### 📈 Engagement
 ![Engagement](Final-Project-DA/images/Final_Project-Engagemennt.png)
 
 ---
