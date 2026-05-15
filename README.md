@@ -161,9 +161,7 @@ The following statistical measures were generated from the fact_tbl to analyze s
 
 ---
 
-# 📊 Summary Statistics Generated
-
-# 📌 Metrics Used
+## 📌 Metrics Used
 
 ## Measures of Central Tendency
 
