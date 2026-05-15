@@ -131,7 +131,7 @@ Dimension tables used:
 - Duplicate entries were detected and removed to avoid inconsistencies and inaccurate analysis. 
 
 ### Inconsistent Formatting
-![FigureTwo](Final-Project-DA/images/Final_Project-Two.png)
+![FigureTwo](Final-Project-DA/images/FInal_Project-Two.png)
 
 ---
 
